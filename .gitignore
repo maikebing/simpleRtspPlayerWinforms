@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/WinFormsRtspPlayer/v16
+/Demo/obj/Debug/net5.0-windows
+/WinFormsRtspPlayer/bin/Debug
+/WinFormsRtspPlayer/obj
